@@ -1,7 +1,7 @@
 #include "global.h"
 
 QString sqlUser = "root";
-QString sqlPwd = "qq6666774";
+QString sqlPwd = "";
 QString sqlLocalHost = "localhost";
 QString username_Current = "";
 QString pwd_Current = "";
