@@ -1,5 +1,7 @@
 # studentInfoManager
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 C++程序设计练习——学生信息管理系统，基于Qt+MySQL
 
 ## 课程原要求如下：
